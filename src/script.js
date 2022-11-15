@@ -75,11 +75,11 @@ gltfLoader.load(
     {
         inspirationMark = gltf.scene
         // console.log(gltf)
-        inspirationMark.scale.set(2, 2, 2)
-        inspirationMark.position.set(-4, 3, 0)
-        inspirationMark.rotation.y = Math.PI * 0.1
+        inspirationMark.scale.set(2.4, 2.4, 2.4)
+        inspirationMark.position.set(-5, 3.2, 0)
+        inspirationMark.rotation.y = Math.PI * 0.16
         inspirationMark.rotation.x = Math.PI * -0.05
-        inspirationMark.rotation.z = Math.PI * -0.1
+        inspirationMark.rotation.z = Math.PI * -0.06
 
         // gltf.scene.getObjectByName('Cube001').material.color.setHex(0x00FF00)
 
