@@ -39,6 +39,8 @@ body {
     margin-right: auto;
 
     outline: none;
+
+    cursor: all-scroll;
 }
 
 button {
